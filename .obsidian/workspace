@@ -79,9 +79,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5e1d656641ed6b90",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "index.md",
+    "README.md"
+  ]
 }
