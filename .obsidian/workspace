@@ -7,8 +7,12 @@
         "id": "5e1d656641ed6b90",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,10 +69,11 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -83,6 +88,8 @@
   },
   "active": "5e1d656641ed6b90",
   "lastOpenFiles": [
+    "index.md",
+    "index.md",
     "index.md",
     "README.md"
   ]
